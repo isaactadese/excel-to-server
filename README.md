@@ -1,2 +1,2 @@
 # excel-to-server
-import and export to server excel table implantation in EXCEL-VBA 
+import and export to server from excel implantation in EXCEL-VBA 
